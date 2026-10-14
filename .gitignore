@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 模型与数据（大文件走 HF Hub / 云端，不进 git）
+*.pt
+*.bin
+*.safetensors
+data/
+checkpoints/
+
+# 系统
+.DS_Store
+Thumbs.db
