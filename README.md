@@ -15,8 +15,8 @@
 |---|---|
 | `docs/phase1-plan.md` | 第一阶段 12 周计划（打勾追踪） |
 | `docs/jd-analysis.md` | 目标岗位 JD 原文与差距分析（北极星，每季度重读） |
+| `docs/milestones.md` | 里程碑记录：作品发布与重要节点 |
 | `weeks/` | 每周学习笔记 |
-| `projects/` | 作品说明与仓库链接 |
 
 ## Why this repo exists
 
