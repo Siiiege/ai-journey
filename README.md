@@ -17,6 +17,7 @@
 | `docs/jd-analysis.md` | 目标岗位 JD 原文与差距分析（北极星，每季度重读） |
 | `docs/milestones.md` | 里程碑记录：作品发布与重要节点 |
 | `weeks/` | 每周学习笔记 |
+| `wiki/` | Agent 维护的知识库（docs/weeks 的编译层），入口 [wiki/index.md](wiki/index.md) |
 
 ## Why this repo exists
 
