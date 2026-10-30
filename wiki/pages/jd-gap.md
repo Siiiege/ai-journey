@@ -14,11 +14,11 @@
 |---|---|
 | LLM 原理与能力边界 | Phase 1 W1-7（手写 GPT）→ [./phase1.md](./phase1.md) |
 | RAG / Agent / Workflow 实战 | Phase 2 核心 |
-| 评测 / 观测 | Phase 2 重点（两个 JD 的核心职责都有它）→ 已提前落地的方法学见 [./repo-governance.md](./repo-governance.md) |
-| Python | W8-11 强制使用；Node.js 作过渡桥梁 |
-| 后端/AI 应用 2 年经验 | 作品 2 全栈 LLM 应用（Node/Python 服务端）+ 作品 1 微调 |
+| 评测 / 观测 | W4 起加入评分，W5 起记录耗时与错误，Phase 2 深化→ 已提前落地的方法学见 [./repo-governance.md](./repo-governance.md) |
+| Python | W1 起用于原理实现，后续用于模型实验；应用先用 TypeScript |
+| 后端/AI 应用 2 年经验 | W3 起小应用与 Phase 2 深化提供能力证据，不能替代工作年限 |
 
-已达标项：本科（北工大）、MCP/Harness/AI 编程工具（ZCode/Cursor 日常使用，写进简历即可）。
+源文档记录本科（北工大）和 AI 编程工具日常使用经历；MCP/Harness 开发能力仍需项目与评测证据。
 
 ## 搜索提醒
 
